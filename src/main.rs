@@ -1,3 +1,5 @@
+
+use crate::kernel;
 fn main() {
-    println!("Hello, world!");
+    kernel::test();
 }
